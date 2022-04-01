@@ -31,7 +31,7 @@ import {
             <IconButton
               as="a"
               target="_blank"
-              href="https://github.com/fredmaiaarantes/simpletasks"
+              href="https://github.com/lesodd77"
               aria-label="GitHub"
               icon={<FaGithub fontSize="20px" />}
               _hover={{ bg: 'pink.500', color: ' white' }}
@@ -39,7 +39,7 @@ import {
             <IconButton
               as="a"
               target="_blank"
-              href="https://twitter.com/fredmaiaarantes"
+              href="https://twitter.com/SimonAgbey3"
               aria-label="Twitter"
               icon={<FaTwitter fontSize="20px" />}
               _hover={{ bg: 'pink.500', color: ' white' }}
@@ -47,7 +47,7 @@ import {
             <IconButton
               as="a"
               target="_blank"
-              href="https://linkedin.com/in/fredmaiaarantes"
+              href="https://github.com/lesodd77"
               aria-label="LinkedIn"
               icon={<FaLinkedin fontSize="20px" />}
               _hover={{ bg: 'pink.500', color: ' white' }}
@@ -61,14 +61,14 @@ import {
             sm: 'start',
           }}
         >
-          &copy; {new Date().getFullYear()}Lesod {' '}
+          &copy; {new Date().getFullYear()} &nbsp;Jotter {' '}
           <a href="https://twitter.com/SimonAgbey3" target="_blank">
-            Twetter
+          &nbsp;  Created &nbsp;
           </a>
-          Created with love <FaHeart
+          with &nbsp; love &nbsp; <FaHeart
            bg="red"/> by
-          <a href="https://twitter.com/fredmaiaarantes" target="_blank">
-            @simon
+          <a href="https://twitter.com/SimonAgbey3" target="_blank">
+            @Lesod
           </a>
           .
         </Text>
