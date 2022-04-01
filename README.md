@@ -1,6 +1,6 @@
 # meteor-jotter
 
-METEOR JOTTER Was first develop as Charm - Simple Tasks by senior developer OF METEORjs Fred Maia,  every aspect of the code remain axactly accept by changing from Task to Jotter, url, and some colors and hover was added to the original one.
+METEOR JOTTER Was first develop as Charm - Simple Tasks by senior developer of meteorjs Fred Maia,  every aspect of the code remain exactly accept by changing from Task to Jotter, url, and some colors and hover was added to the original one. I get this code and use it as training after meteor unversity 101. You contact me on #https://twitter.com/SimonAgbey3
 below is the source information. Its built with new preferred stack: CHARM (Chakra-UI, React, Meteor).
 
 #source code Author: [@fredmaiaarantes](https://twitter.com/fredmaiaarantes)
